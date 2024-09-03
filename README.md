@@ -2,6 +2,7 @@ Tic-Tac-Toe is a simple yet strategic game that has been enjoyed by people of al
 
 This version of Tic-Tac-Toe is designed for one player, who plays as 'X', against a computer opponent, which plays as 'O'. The computer AI uses basic strategies to make its moves, providing a tough challenge to the player. 
 The game is played entirely through the command line, making it a great way to practice Python programming and understand the fundamentals of game development.
+
 P.S you cannot win against the computer!
 
 Key features of this project include:
